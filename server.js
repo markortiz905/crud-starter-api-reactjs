@@ -25,7 +25,7 @@ var db = require('knex')({
   connection: {
     host : 'database-2.chbn8oqo6cuy.us-west-2.rds.amazonaws.com',
     user : 'postgres',
-    password : 'password',
+    password : 'password5432',
     database : 'postgres'
   }
 });
